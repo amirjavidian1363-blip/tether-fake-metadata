@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/amirjavidian1363-blip/tether-fake-metadata/main/logo.png",
+  "description": "Educational fake USDT token"
+}
